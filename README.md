@@ -25,3 +25,7 @@ E-commerce user events (sessions, add to cart, checkout, shipping and payment in
 
 
 [Open the interactive dashboard on Tableau Public](https://public.tableau.com/views/ABTestStatisticalSignificance_17918673786320/ABtest?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## Files
+- `ab_test_analysis.ipynb`: Python analysis (2-proportion Z-test)
+- `dashboard.png`: dashboard screenshot
